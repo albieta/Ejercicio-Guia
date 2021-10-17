@@ -1,0 +1,20 @@
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.exe.config
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.exe
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.pdb
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csprojAssemblyReference.cache
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.Convertidor.resources
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.Properties.Resources.resources
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.GenerateResource.cache
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.CoreCompileInputs.cache
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.exe
+C:\Users\albar\source\repos\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.pdb
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.exe.config
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.exe
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.pdb
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csprojAssemblyReference.cache
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.Convertidor.resources
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.Properties.Resources.resources
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.GenerateResource.cache
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.exe
+C:\Users\albar\OneDrive\Desktop\Q5\SISTEMES OPERATIUS\deures\w4\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.pdb
